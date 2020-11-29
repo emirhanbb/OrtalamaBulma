@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ortalama Bulma</string>
+    <string name="sayi1">1. Sayı</string>
+    <string name="sayi2">2. Sayı</string>
+    <string name="button">Ortalama Bul</string>
+    <string name="sonuc">Sonuç: </string>
+</resources>
